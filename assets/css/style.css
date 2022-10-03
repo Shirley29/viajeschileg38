@@ -3,4 +3,12 @@ body{
     margin: 0;
 
 font-family: 'Roboto', sans-serif;
+background-color: black;
+color: white;
+}
+
+@media screen and (max-width:768px) {
+.display{
+    display: none;
+}
 }
