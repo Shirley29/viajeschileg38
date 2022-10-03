@@ -12,3 +12,14 @@ color: white;
     display: none;
 }
 }
+.footer-wrap {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.nav-black{
+    background-color:black ;
+    opacity: 0.9;
+    color: white;
+}
